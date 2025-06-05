@@ -32,7 +32,7 @@ A RESTful API for managing tasks, built with Django REST Framework.
 
 3. Install the required packages:
    
-   pip install -r requirements.txt
+   pip install -r req.txt
   
 
 4. Apply migrations:
