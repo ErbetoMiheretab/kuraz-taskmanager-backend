@@ -8,3 +8,4 @@ class TaskSer(serializers.ModelSerializer):
         model = Task
         fields = ['id', 'title', 'completed', 'created_at']
 
+        
